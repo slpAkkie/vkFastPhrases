@@ -1,14 +1,15 @@
 {
   "env": {
     "browser": true,
-	"node": true,
+    "node": true,
     "es2020": true,
     "jquery": true
   },
+  "parser": "babel-eslint",
   "parserOptions": {
     "ecmaVersion": 2020,
     "ecmaFeatures": {
-	  "impliedStrict": true
+      "impliedStrict": true
     },
     "sourceType": "script"
   },
@@ -117,10 +118,6 @@
       "inside"
     ],
     "yoda": "warn",
-    "strict": [
-      "warn",
-      "global"
-    ],
     "no-label-var": "warn",
     "no-shadow": "warn",
     "no-shadow-restricted-names": "warn",
