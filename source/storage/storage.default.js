@@ -2,4 +2,4 @@
  * Набор кнопок по умолчанию
  */
 
-const defSamples = [];
+const DEFSAMPLES = [];

@@ -1,7 +1,13 @@
 /**
  * Класс взаимодействия с хранилищем
  */
-class storage {
+class _Storage {
+
+
+
+  constructor() {
+    log( 'Инициализация api хранилища' );
+  }
 
 
 

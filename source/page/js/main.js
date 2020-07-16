@@ -1,0 +1,1 @@
+log( 'vkFastPhrases Extension Запущено' );
