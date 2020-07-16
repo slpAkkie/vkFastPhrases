@@ -18,22 +18,25 @@
         "page/css/removeAds.min.css"
       ],
       "js": [
-        "page/js/modules/Button.class.min.js",
+        "page/js/modules/ButtonControls.min.js",
+        "page/js/modules/ButtonMessage.min.js",
+        "page/js/modules/PageMonitor.min.js",
         "page/js/model.min.js",
         "page/js/view.min.js",
-        "page/js/controller.min.js"
+        "page/js/controller.min.js",
+        "page/js/main.min.js"
       ],
       "run_at": "document_idle"
     }
   ],
   "browser_action": {
     "default_icon": {
-      "72": "image/icon/72.png"
+      "72": "images/icons/72.png"
     },
     "default_title": "vkFastPhrases",
     "default_popup": "popup/index.html"
   },
   "icons": {
-    "72": "image/icon/72.png"
+    "72": "images/icons/72.png"
   }
 }
