@@ -1,11 +1,11 @@
 {
-  "name": "vkfastphrases",
+  "name": "vk-fast-phrases",
   "version": "3.0.73",
   "description": "Простой способ отправки заготовленных сообщений",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slpAkkie/vkFastPhrases.git"
+    "url": "git+https://github.com/slpAkkie/vk-fast-phrases.git"
   },
   "scripts": {
     "build": "gulp build"
@@ -13,9 +13,9 @@
   "author": "slpakkie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/slpAkkie/vkFastPhrases/issues"
+    "url": "https://github.com/slpAkkie/vk-fast-phrases/issues"
   },
-  "homepage": "https://github.com/slpAkkie/vkFastPhrases#readme",
+  "homepage": "https://github.com/slpAkkie/vk-fast-phrases#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "del": "^5.1.0",

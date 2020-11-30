@@ -1,1 +1,1 @@
-log( 'vkFastPhrases Extension Запущено' );
+log( 'vk-fast-phrases Extension Запущено' );

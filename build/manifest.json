@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "vkFastPhrases",
+  "name": "vk-fast-phrases",
   "version": "3.0.73",
   "description": "Простой способ отправки заготовленных сообщений",
   "author": "slpakkie",
@@ -33,7 +33,7 @@
     "default_icon": {
       "72": "images/icons/72.png"
     },
-    "default_title": "vkFastPhrases",
+    "default_title": "vk-fast-phrases",
     "default_popup": "popup/index.html"
   },
   "icons": {

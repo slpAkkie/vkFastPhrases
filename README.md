@@ -1,3 +1,3 @@
-# vkFastPhrases v3
+# vk-fast-phrases v3
 
-Третья версия vkFastPhrases будет полностью переделана.
+Третья версия vk-fast-phrases будет полностью переделана.
